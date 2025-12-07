@@ -6,7 +6,7 @@ Using the Augg.io SDK
 
 📍 Explore. Learn. Experience — Powered by Augg.io
 
-Watch the demo here: 
+Watch the demo here: https://youtube.com/shorts/BoM7hwWV_Q4?si=stl5RRjPBty3va6c
 
 🎮 Overview
 
