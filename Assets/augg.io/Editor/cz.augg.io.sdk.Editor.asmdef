@@ -1,0 +1,25 @@
+{
+    "name": "cz.augg.io.sdk.Editor",
+    "rootNamespace": "Auggio",
+    "references": [
+        "Google.XR.ARCoreExtensions.Editor",
+        "Unity.EditorCoroutines.Editor",
+        "cz.augg.io.sdk",
+        "Unity.XR.ARSubsystems.Editor",
+        "Unity.XR.CoreUtils.Editor",
+        "Unity.XR.CoreUtils",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARSubsystems"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

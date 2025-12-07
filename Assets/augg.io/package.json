@@ -1,0 +1,17 @@
+{
+  "name": "cz.augg.io.sdk",
+  "version": "1.0.0",
+  "displayName": "augg.io",
+  "description": "SDK to simplify the creation of AR apps and make them more accessible to everyone.",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.unity.xr.arcore": "5.1.0",
+    "com.unity.xr.arfoundation": "5.1.0",
+    "com.unity.xr.arkit": "5.1.0"
+  },
+  "author": {
+    "name": "augg.io",
+    "email": "dev@augg.io",
+    "url": "https://augg.io"
+  }
+}

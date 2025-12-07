@@ -1,0 +1,3 @@
+[submodule "Runtime/serialization"]
+	path = Runtime/serialization
+	url = git@gitlab.com:augg.io/serialization.git
